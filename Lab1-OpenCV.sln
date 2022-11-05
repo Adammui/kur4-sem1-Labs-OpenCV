@@ -18,6 +18,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		README.md = README.md
 	EndProjectSection
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Lab6-OpenCV", "Lab6-OpenCV\Lab6-OpenCV.vcxproj", "{08C028E5-FF15-4CBA-94CF-4AAEA3304DFA}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Lab7-OpenCV", "Lab7-OpenCV\Lab7-OpenCV.vcxproj", "{6FCB3777-E7C5-489B-B4FD-EA612B3E85B2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -66,6 +70,22 @@ Global
 		{64216B3F-B31C-4AD2-B429-D52CC4C8A15D}.Release|x64.Build.0 = Release|x64
 		{64216B3F-B31C-4AD2-B429-D52CC4C8A15D}.Release|x86.ActiveCfg = Release|Win32
 		{64216B3F-B31C-4AD2-B429-D52CC4C8A15D}.Release|x86.Build.0 = Release|Win32
+		{08C028E5-FF15-4CBA-94CF-4AAEA3304DFA}.Debug|x64.ActiveCfg = Debug|x64
+		{08C028E5-FF15-4CBA-94CF-4AAEA3304DFA}.Debug|x64.Build.0 = Debug|x64
+		{08C028E5-FF15-4CBA-94CF-4AAEA3304DFA}.Debug|x86.ActiveCfg = Debug|Win32
+		{08C028E5-FF15-4CBA-94CF-4AAEA3304DFA}.Debug|x86.Build.0 = Debug|Win32
+		{08C028E5-FF15-4CBA-94CF-4AAEA3304DFA}.Release|x64.ActiveCfg = Release|x64
+		{08C028E5-FF15-4CBA-94CF-4AAEA3304DFA}.Release|x64.Build.0 = Release|x64
+		{08C028E5-FF15-4CBA-94CF-4AAEA3304DFA}.Release|x86.ActiveCfg = Release|Win32
+		{08C028E5-FF15-4CBA-94CF-4AAEA3304DFA}.Release|x86.Build.0 = Release|Win32
+		{6FCB3777-E7C5-489B-B4FD-EA612B3E85B2}.Debug|x64.ActiveCfg = Debug|x64
+		{6FCB3777-E7C5-489B-B4FD-EA612B3E85B2}.Debug|x64.Build.0 = Debug|x64
+		{6FCB3777-E7C5-489B-B4FD-EA612B3E85B2}.Debug|x86.ActiveCfg = Debug|Win32
+		{6FCB3777-E7C5-489B-B4FD-EA612B3E85B2}.Debug|x86.Build.0 = Debug|Win32
+		{6FCB3777-E7C5-489B-B4FD-EA612B3E85B2}.Release|x64.ActiveCfg = Release|x64
+		{6FCB3777-E7C5-489B-B4FD-EA612B3E85B2}.Release|x64.Build.0 = Release|x64
+		{6FCB3777-E7C5-489B-B4FD-EA612B3E85B2}.Release|x86.ActiveCfg = Release|Win32
+		{6FCB3777-E7C5-489B-B4FD-EA612B3E85B2}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
